@@ -1,6 +1,6 @@
 # FoodRecommend
 
-# foodList_uft:
+# foodList_utf:
 식품안전정보포탈(식품정보나라)의 식품영양성분DB를 csv 파일로 변형한 dataset입니다. foodres.zip 안에 내재되어 있습니다.
 
 
