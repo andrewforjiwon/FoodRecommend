@@ -15,7 +15,5 @@
  파이썬 main에서 실행 이후 ID값이 들어오고 분석을 통해 콘솔값이 출력되면서 spring내의 mp4파일과 매칭됩니다. 
  (IDE ECLIPSE jee-pydev, mysql workbench 8.0 CE사용)
 
-# 2nd_Project:
- tomcat apache8.5, java1.8를 이용, 메인 프로젝트, 위에 있는 두 가지 python project 각 main에서 flask server 구동 후 2nd_Project index.jsp 실행하면 
- 웹사이트 실행. 이후 Food탭의 식단입력과 working-out탭의 자가진단 제출시 flask server로 넘어온 객체 혹은 데이터를 전달합니다.  
- (IDE Spring sts, mysql workbench 8.0 CE사용)
+# 프로젝트 메인기능(업로드X):
+ tomcat apache8.5, java1.8를 이용한 메인 프로젝트, 위에 있는 두 가지 python project 각 main에서 flask server 구동 후 2nd_Project index.jsp 실행하면 웹사이트 실행. 이후 Food탭의 식단입력과 working-out탭의 자가진단 제출시 flask server로 넘어온 객체 혹은 데이터를 전달합니다.  (IDE Spring sts, mysql workbench 8.0 CE사용)
