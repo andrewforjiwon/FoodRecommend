@@ -1,4 +1,9 @@
 # FoodRecommend
+
+# foodList_uft:
+식품안전정보포탈(식품정보나라)의 식품영양성분DB를 csv 파일로 변형한 dataset입니다. 
+
+
 # foodres: 
  python flask이용, 설문값과 식단입력정보가 들어오면 음식추천 및 식단결과페이지 출력하는 source
  foodres 내 main에서 실행 후 메인 프로젝트()에서 식단입력하면 결과페이지가 전송됩니다. 
