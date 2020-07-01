@@ -1,5 +1,8 @@
 # FoodRecommend
 
+# 뒷자리조_2차_프로젝트 완료발표ppt.pdf
+프로젝트 전반적인 기획의도와 핵심코드를 압축한 발표자료입니다. 
+
 # foodList_utf:
 식품안전정보포탈(식품정보나라)의 식품영양성분DB를 csv 파일로 변형한 dataset입니다. foodres.zip 안에 내재되어 있습니다.
 
